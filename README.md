@@ -13,7 +13,7 @@ PLEASE DO FOLLOWING:
 
 (1) In your browser, go to web interface 
   From Computer on which you have installed modesmixer2:  
-  http://localhost:8787 OR http://localhost:8787  
+  http://localhost:8787 OR http://127.0.0.1:8787  
   From another computer on same local network:  
   http://ip-of-this-computer:8787  
 
