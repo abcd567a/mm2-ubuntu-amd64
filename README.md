@@ -1,5 +1,5 @@
 # mm2-ubuntu-amd64
-ModeSMixer2 installation script for Ubuntu 18.04 64bit Intel CPU
+### ModeSMixer2 installation script for Ubuntu 18.04 64bit Intel CPU
 </br>
 
 Copy-paste following command in SSH console and press Enter key. The script will install and configure modesmixer2. </br></br>
